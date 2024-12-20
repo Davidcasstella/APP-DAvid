@@ -48,7 +48,7 @@ class FotoPage extends StatelessWidget {
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
                 Text(
-                  'Bienvenido al sistema de fotos\nDe David López',
+                  'Bienvenidos al sistema de fotos\nDe David López',
                   style: titleStyle,
                   textAlign: TextAlign.center,
                 ),
